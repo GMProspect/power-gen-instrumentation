@@ -1,9 +1,8 @@
 # Confiabilidad en Instrumentación Industrial (Power Gen)
 > *Mantenimiento predictivo y correctivo en entornos de alta corrosión para turbinas aeroderivadas (LM2500).*
 
-![Instrumentación Banner](ruta/a/banner_instrumentacion.jpg)
 
-## 🚩 El Desafío: "Contexto VIVO"
+
 La generación eléctrica en zonas costeras enfrenta un enemigo silencioso: la **corrosión galvánica**. Cajas de conexión (Junction Boxes) IP65 fallan prematuramente, y la humedad en sondas de vibración (Eddy Current) provoca disiparos falsos en turbinas, afectando la disponibilidad de la planta y la seguridad operativa.
 
 ## 💡 La Solución
