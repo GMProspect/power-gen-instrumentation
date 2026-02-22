@@ -20,7 +20,11 @@ Implementación de protocolos rigurosos de **Confiabilidad Operacional** basados
 - ✅ **Instrumentación de Campo**:
     - Transmisores de Presión Diferencial (Manifolds 3-way/5-way).
     - Termocuplas y RTDs para monitoreo de gases de escape (EGT).
-    - Actuadores neumáticos y posicionadores inteligentes.
+- Actuadores neumáticos y posicionadores inteligentes.
+
+## 📂 Documentación Técnica Avanzada
+Este repositorio incluye guías detalladas sobre los procedimientos exactos ejecutados en campo:
+- [Guía Práctica: Calibración con Fluke 754 y Ajuste de Proximity Probes (Bently Nevada)](docs/Guia_Calibracion_Fluke_Bently.md)
 
 ## 📸 Evidencia de Campo
 | Diagnóstico | Intervención |
