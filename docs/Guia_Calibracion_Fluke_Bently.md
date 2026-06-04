@@ -1,4 +1,4 @@
-# Procedimiento Técnico Avanzado: Calibración y Ajuste de Instrumentación Crítica
+|# Procedimiento Técnico Avanzado: Calibración y Ajuste de Instrumentación Crítica
 > *Aplicable a Turbinas Aeroderivadas LM2500 / TM2500 y Generación Offshore.*
 
 Este documento resume los protocolos prácticos y técnicos empleados en campo para la garantía de confiabilidad (Reliability) de los instrumentos primarios de medición que alimentan al sistema de control (PLC/DCS).
